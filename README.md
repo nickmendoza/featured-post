@@ -17,16 +17,3 @@ Features
 - Ajax powered featured status toggle
 - Dashicons used for featured posts column
 
-
-To-Do
-============
-
-- Slider integration for featured post (still waiting for good slider or a contributer to work on this)
-- Widget for more advanced settings
-- and it still goes on
-
-
-Support & Donate
-=============
-
-To Support, consider donating at https://gum.co/wppress-donate
