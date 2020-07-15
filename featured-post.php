@@ -273,7 +273,7 @@ class Featured_Post
                         
                     } else {
                         
-                        let input = document.createElement('input');
+                        var input = document.createElement('input');
                     
                         input.type = 'hidden';
                         input.id = 'featuredHiddenCheckbox';
